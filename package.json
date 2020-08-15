@@ -1,11 +1,17 @@
 {
-  "name": "react-hooks-tutorial",
+  "name": "multi-step-form-v0",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@hookform/error-message": "0.0.4",
+    "bootstrap": "^4.5.2",
     "react": "^16.8.6",
+    "react-bootstrap": "^1.3.0",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-hook-form": "^6.3.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3",
+    "styled-components": "^5.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
